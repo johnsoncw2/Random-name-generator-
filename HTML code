@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Extension</title>
+    <script src="app.js"></script>
+  </head>
+  <body>
+    <button id="random-button" onclick="getRandomStudents()">Randomize</button>
+    <div id="student-list"></div>
+  </body>
+</html>
